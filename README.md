@@ -12,7 +12,7 @@ The goal of this analysis is to convey insights about the impact that the launch
 
 ## Analysis and Challenges
 
-The analysis of the crowdfinding data is performed in two ways:
+The original data conveys information for different campaigns launch to financiate different types of playwriting, tv shows, musicals, movies; and the campaigns include analysis of the crowdfinding data is performed in two ways:
 
 * How the campaigns do based on the Launch Date: 
 * How the campaigns do based on the Financial Goal
