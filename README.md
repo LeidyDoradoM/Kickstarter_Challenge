@@ -1,7 +1,7 @@
 # Module 1: Kickstarting with Excel
 
-Louise is a promising playwrighter who wanted to start a crowdfunding campaign
-to help her fund her play **Fever**. After an initial analysis she set a
+Louise is a promising playwright who wanted to start a crowdfunding campaign
+to get the funds for her play **Fever**. After an initial analysis she set a
 campaign that is close to meet her initial goal in a short period of time. She
 is very excited about how her play fundraising is going but now, she wants to
 gather more information to understand better how another factors could impact
